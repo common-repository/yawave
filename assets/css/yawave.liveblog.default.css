@@ -1,0 +1,367 @@
+.yawave-liveblog-card {
+	border: 1px solid #e4e7ec;
+	background: #fff;
+	border-radius: 4px;
+	margin-bottom: 40px;
+}
+
+.yawave-liveblog-card .yawave-liveblog-card-header {
+	padding: 20px;
+	border-bottom: 1px solid #e4e7ec;
+}
+
+.yawave-liveblog-card .yawave-liveblog-card-header h4 {
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+.yawave-liveblog-card .yawave-liveblog-card-content {
+	padding: 20px;
+	font-size: 16px;
+}
+
+.yawave-liveblog-card iframe {
+	border: 0!important;
+}
+
+.liveticker-time {
+  width: 36px;
+  height: 26px;
+  border: 1px solid #1e457c;
+  border-radius: 15px;
+  background-color: #fff;
+  text-align: center;
+  line-height: 24px;
+  color: #31404b;
+  font-size: 10px;
+  font-weight: 700;
+  display: inline-block;
+  top: 50%;
+  background-color: #fff;
+  color: #1e457c;
+  margin-right: 10px;
+}
+
+.liveticker-time-date {
+  width: 120px;
+}
+
+.liveticker-time-time {
+  width: 160px;
+}
+
+.liveticker-publication-container #yawave-header #yawave-liveblog-action-buttons .btn {
+  color: #fff;
+  background: #0095dd;
+  border-radius: 25px;
+  padding: 5px 25px;
+  text-transform: uppercase;
+  font-size: 13px;
+  margin: 0 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.liveticker-publication-container #yawave-header #yawave-liveblog-action-buttons a.btn {
+  padding: 10px 25px;
+}
+
+@media only screen and (max-width:480px){
+	
+	.liveticker-time-time {
+	  width: 100%;
+	  height: inherit;
+	  border: none;
+	  border-radius: inherit;
+	  background-color: inherit;
+	  text-align: inherit;
+	  line-height: inherit;
+	  color: inherit;
+	  font-size: inherit;
+	  font-weight: inherit;
+	  display: block;
+	  top: inherit;
+	}
+	
+	.liveticker-time-time span {
+	  width: 160px;
+	  height: 26px;
+	  border: 1px solid #1e457c;
+	  border-radius: 15px;
+	  background-color: #fff;
+	  text-align: center;
+	  line-height: 24px;
+	  color: #31404b;
+	  font-size: 10px;
+	  font-weight: 700;
+	  display: inline-block;
+	  top: 50%;
+	  background-color: #fff;
+	  color: #1e457c;
+	  margin-right: 10px;
+	  margin-bottom: 15px;
+	}
+  
+}
+
+.liveticker-icon {
+  display: block;
+  width: 15%;
+  float: left;
+  max-width: 50px!important;
+  padding-left: 5px;
+}
+
+.liveticker-info {
+  width: 85%;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.liveticker-icon .sp-icon-sub {
+   background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.928 0a.33.33 0 00-.225.09L10.76 1.958a.307.307 0 00-.002.442l4.592 4.485-4.629 4.448a.305.305 0 00-.002.441l1.928 1.883c.126.123.33.124.456.002l6.802-6.535a.307.307 0 00.001-.443L13.161.093A.325.325 0 0012.928 0z' fill='%2307E0C4'/%3E%3Cpath d='M7.072 6.25a.33.33 0 01.225.09L9.24 8.208c.126.122.127.32.002.442L4.65 13.135l4.629 4.448c.127.122.128.32.002.442l-1.928 1.882a.329.329 0 01-.456.002L.095 13.374a.307.307 0 01-.001-.443l6.745-6.588a.325.325 0 01.233-.093z' fill='%23FADC06'/%3E%3C/svg%3E");
+   background-repeat: no-repeat;
+   background-position: 50%;
+}
+
+.liveticker-icon .sp-icon-sub:before {
+  content: none!important;
+}
+
+.liveticker-textarea {
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #1e457c;
+  margin: 40px 0;
+  background-color: #eceff4;
+}
+
+.liveticker-textarea .text {
+  display: inline-block;
+  padding-top: 0;
+}
+
+.liveticker-textarea .team-logo {
+  height: 40px;
+  margin: 0 10px;
+}
+
+.liveticker-textarea .spielstand {
+  display: inline-block;
+  background: #1e457c;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+.liveticker-publication .liveticker-publication-content {
+  height: 400px;
+  background-size: cover!important;
+  padding: 0!important;
+}
+
+@media only screen and (max-width:480px){
+  
+  .liveticker-publication .liveticker-publication-content {
+	background-size: cover!important;
+	background-position: center center;
+  }
+  
+  .focuspoint-magic {
+	background-size: 200% !important; 
+  }
+
+}
+
+.focuspoint-magic {
+  background-size: 100% !important; 
+  background-repeat: no-repeat;
+}
+
+.liveticker-publication .liveticker-publicaton-headline, .liveticker-publication #yawave-header h1 {
+  text-transform: uppercase;
+  font-size: 38px;
+  color: #fff; 
+  display: block;
+  margin: 15px 0;
+  font-weight: bold;
+}
+
+.liveticker-publication .liveticker-publicaton-headline, .liveticker-publication #yawave-header h1 a {
+  text-decoration: none;
+}
+
+.liveticker-publication .liveticker-publicaton-subline, .liveticker-publication #yawave-header h2 {
+  font-size: 16px;
+  color: #fff; 
+  display: block;
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+
+.liveticker-publication #yawave-buttons > a {
+  background: #0095dd;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  position: relative;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  display: inline-block;
+  border: 1px solid transparent;
+  text-transform: uppercase;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.liveticker-publication .liveticker-publication-container {
+  text-align: center;
+  background: rgba(0,0,0,0.5);
+  height: 100%;
+}
+
+.liveticker-publication .liveticker-publication-wrapper {
+  padding: 120px 20px 20px 20px;
+}
+
+.liveticker-publicaton-button {
+  background: #fff;
+  color: #1e457c;
+  text-decoration: none;
+  padding: 8px 12px;
+  text-transform: uppercase;
+  border-radius: 3px;
+  margin-bottom: 25px;
+}
+
+.liveticker-publication-container .post__meta.meta {
+  color: #fff;
+  margin-top: 25px;
+}
+
+.yawave-liveblog-container {
+  background-image: url('data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAA8AAD/4QMuaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA2LjAtYzAwMiA3OS4xNjQ0ODgsIDIwMjAvMDcvMTAtMjI6MDY6NTMgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCAyMi4wIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjdGRDQ1MEY5MzY0QjExRUI4MDY0RjBEMkU1NThENkY0IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjdGRDQ1MEZBMzY0QjExRUI4MDY0RjBEMkU1NThENkY0Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6N0ZENDUwRjczNjRCMTFFQjgwNjRGMEQyRTU1OEQ2RjQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6N0ZENDUwRjgzNjRCMTFFQjgwNjRGMEQyRTU1OEQ2RjQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAAGBAQEBQQGBQUGCQYFBgkLCAYGCAsMCgoLCgoMEAwMDAwMDBAMDg8QDw4MExMUFBMTHBsbGxwfHx8fHx8fHx8fAQcHBw0MDRgQEBgaFREVGh8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx//wAARCAABAAQDAREAAhEBAxEB/8QASwABAAAAAAAAAAAAAAAAAAAABwEBAQAAAAAAAAAAAAAAAAAABQYQAQAAAAAAAAAAAAAAAAAAAAARAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AClThH//2Q==');
+  background-repeat: repeat-y;
+  background-position: 35px 100px;
+  padding-bottom: -10px!important;
+}
+
+.liveticker-goal-info {
+  color: #fff; 
+  font-weight: normal; 
+  text-transform: inerhit; 
+  max-width: 460px; 
+  margin-top: 20px;
+}
+
+.liveticker-substituted-out-button {
+  background: #ef462f; 
+  color: #fff; 
+  border-radius: 10px; 
+  padding: 1px 0; 
+  font-size: 10px; 
+  text-transform: uppercase;
+  width: 49px;
+  margin-right: 10px;
+  display: inline-block;
+  line-height: 17px;
+  text-align: center;
+}
+
+.liveticker-substituted-in-button {
+  background: #2fb55b; 
+  color: #fff; 
+  border-radius: 10px; 
+  padding: 1px 0; 
+  font-size: 10px; 
+  text-transform: uppercase;
+  width: 49px;
+  margin-right: 10px;
+  display: inline-block;
+  line-height: 17px;
+  text-align: center;
+}
+
+.liveblog-button {
+  background: #eceff3;
+  color: #1c457a;
+  border: none;
+  border-radius: 5px;
+  padding: 3px 15px;
+  border:1px solid #1c457a;
+}
+
+.liveticker-yawave-default-icon {
+  opacity: 0.3;
+}
+
+.yawave-liveblog-details hr {
+  margin: 20px 0;
+}
+
+.yawave-livelog-next-reload {
+  font-size: 16px;
+  color: #666;
+}
+
+@media only screen and (max-width:480px){
+	
+	.liveticker-textarea {
+	  font-size: 17px;
+	}
+	
+	.liveticker-textarea .spielstand {
+	  padding: 6px 12px;
+	}
+	
+	.player-background .card__content {
+	  height: 200px;
+	}
+	
+	.player-nr {
+	  font-size: 45px;
+	  display: block;
+	  margin-right: 0;
+	  margin-top: 20px;
+	  margin-bottom: 20px;
+	}
+	
+	.player-name .firstname {
+	  font-size: 18px;
+	  margin-bottom: 8px;
+	}
+	
+	.player-name .lastname {
+	  font-size: 35px;
+	}
+	
+	.player-profile-picture {
+	  background-size: contain;
+	  background-position: 170px center;
+	  background-repeat: no-repeat;
+	}
+	
+	.liveticker_card_header h4 {
+	  font-size: 12px!important;
+	}
+  
+	.liveticker-goal-info {
+	  max-width: 80%; 
+	  font-size: 13px;
+	  margin-top: 10px;
+	  line-height: 14px;
+	  text-shadow: 0 0 3px #000;
+	}
+  
+}

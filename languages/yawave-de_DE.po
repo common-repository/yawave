@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yawave\n"
+"POT-Creation-Date: 2021-08-16 06:07+0200\n"
+"PO-Revision-Date: 2021-08-16 06:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../yawave-wp-plugin/includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: settings.php\n"
+"X-Poedit-SearchPath-1: metadata.php\n"
+"X-Poedit-SearchPath-2: settings.liveblogs.php\n"
+"X-Poedit-SearchPath-3: shortcode.liveblog.php\n"
+
+#: metadata.php:17
+msgid "Yawave internal ID"
+msgstr "Yawave ID"
+
+#: metadata.php:37
+msgid "Yawave publications"
+msgstr "Yawave Publikationen"
+
+#: metadata.php:38 metadata.php:40 metadata.php:66 settings.php:638
+msgid "Publication"
+msgstr "Publikation"
+
+#: metadata.php:39
+msgid "Publications"
+msgstr "Publikationen"
+
+#: metadata.php:41
+msgid "Item Archives"
+msgstr "Archiv"
+
+#: metadata.php:42
+msgid "Item Attributes"
+msgstr "Attributes"
+
+#: metadata.php:43 metadata.php:105 metadata.php:138
+msgid "Parent Item:"
+msgstr "Eltern Artikel:"
+
+#: metadata.php:44 metadata.php:103 metadata.php:136
+msgid "All Items"
+msgstr "Alle Publikationen"
+
+#: metadata.php:45 metadata.php:107 metadata.php:140
+msgid "Add New Item"
+msgstr "Neue Publikation"
+
+#: metadata.php:47
+msgid "New Item"
+msgstr "Neu"
+
+#: metadata.php:48 metadata.php:108 metadata.php:141
+msgid "Edit Item"
+msgstr "Bearbeiten"
+
+#: metadata.php:49 metadata.php:109 metadata.php:142
+msgid "Update Item"
+msgstr "Bearbeiten"
+
+#: metadata.php:50 metadata.php:110 metadata.php:143
+msgid "View Item"
+msgstr "Anzeigen"
+
+#: metadata.php:51
+msgid "View Items"
+msgstr "Anzeigen"
+
+#: metadata.php:52
+msgid "Search Item"
+msgstr "Suchen"
+
+#: metadata.php:53
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+#: metadata.php:54
+msgid "Not found in Trash"
+msgstr "Nichts gefunden im Papierkorb"
+
+#: metadata.php:55
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: metadata.php:56
+msgid "Set featured image"
+msgstr "Beitragsbild festlegen"
+
+#: metadata.php:57
+msgid "Remove featured image"
+msgstr "Beitragsbild entfernen"
+
+#: metadata.php:58
+msgid "Use as featured image"
+msgstr "Als Beitragsbild verwenden"
+
+#: metadata.php:59
+msgid "Insert into item"
+msgstr "Hinzufügen"
+
+#: metadata.php:60
+msgid "Uploaded to this item"
+msgstr "Hochladen"
+
+#: metadata.php:61 metadata.php:118 metadata.php:151
+msgid "Items list"
+msgstr "Liste"
+
+#: metadata.php:62 metadata.php:119 metadata.php:152
+msgid "Items list navigation"
+msgstr "Listen Navigation"
+
+#: metadata.php:63
+msgid "Filter items list"
+msgstr "Filtern"
+
+#: metadata.php:67
+msgid "Publication Description"
+msgstr "Publikations Beschreibung"
+
+#: metadata.php:100 metadata.php:102
+msgid "Portals"
+msgstr "Portale"
+
+#: metadata.php:101
+msgid "Portal"
+msgstr "Portal"
+
+#: metadata.php:104 metadata.php:137
+msgid "Parent Item"
+msgstr ""
+
+#: metadata.php:106 metadata.php:139
+msgid "New Item Name"
+msgstr "Neuer Name"
+
+#: metadata.php:111 metadata.php:144
+msgid "Separate items with commas"
+msgstr "Kommagetrennt"
+
+#: metadata.php:112 metadata.php:145
+msgid "Add or remove items"
+msgstr "Hinzufügen oder entfernen"
+
+#: metadata.php:113 metadata.php:146
+msgid "Choose from the most used"
+msgstr "Auswählen"
+
+#: metadata.php:114 metadata.php:147
+msgid "Popular Items"
+msgstr "Beliebte"
+
+#: metadata.php:115 metadata.php:148
+msgid "Search Items"
+msgstr "Suchen"
+
+#: metadata.php:116 metadata.php:149
+msgid "Not Found"
+msgstr "Nichts gefunden"
+
+#: metadata.php:117 metadata.php:150
+msgid "No items"
+msgstr "Nichts vorhanden"
+
+#: metadata.php:133
+msgid "Yawave Type"
+msgstr "Type"
+
+#: metadata.php:134
+msgid "Type"
+msgstr "Type"
+
+#: metadata.php:135
+msgid "Types"
+msgstr "Typen"
+
+#: settings.liveblogs.php:5
+msgid ""
+"Here you can see a list of the live blogs you have created in Yawave. You "
+"can place these anywhere on your pages or similar by simply copying the "
+"WordPress shortcode from the table below."
+msgstr ""
+"Hier sehen Sie eine Liste der Live-Blogs, die Sie in Yawave erstellt haben. "
+"Sie können diese überall auf Ihren Seiten oder ähnlichem platzieren, indem "
+"Sie einfach den WordPress-Shortcode aus der folgenden Tabelle kopieren."
+
+#: settings.liveblogs.php:8
+msgid "How do you integrate live blogs on your site?"
+msgstr "Wie integrieren Sie Live-Blogs auf Ihrer Website?"
+
+#: settings.liveblogs.php:9
+msgid ""
+"The best way to do this is to use our shortcodes. You can use these "
+"shortcodes freely in your posts, pages or directly in the code. On the one "
+"hand, you have the option of viewing a special live blog from the list "
+"below. However, if you just want to always display the most recently created "
+"live blog at a certain point, simply use the following shortcode:"
+msgstr ""
+"Der beste Weg, dies zu tun, ist, unsere Shortcodes zu verwenden. Sie können "
+"diese Shortcodes frei in Ihren Beiträgen, Seiten oder direkt im Code "
+"verwenden. Zum einen haben Sie die Möglichkeit, sich einen speziellen Live-"
+"Blog aus der untenstehenden Liste anzusehen. Wenn Sie jedoch an einer "
+"bestimmten Stelle immer nur den zuletzt erstellten Live-Blog anzeigen "
+"möchten, verwenden Sie einfach folgenden Shortcode:"
+
+#: settings.liveblogs.php:42
+msgid "Date"
+msgstr "Datum"
+
+#: settings.liveblogs.php:43
+msgid "Event"
+msgstr "Veranstaltung"
+
+#: settings.liveblogs.php:44
+msgid "Location"
+msgstr "Standort"
+
+#: settings.liveblogs.php:45
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: settings.liveblogs.php:46
+msgid "Actions"
+msgstr "Aktionen"
+
+#: settings.liveblogs.php:147
+msgid "Show entrys"
+msgstr "Einträge anzeigen"
+
+#: settings.liveblogs.php:147
+msgid ""
+"Do you really want to remove this live blog from your Wordpress? All entries "
+"for this live blog will be completely removed from your Wordpress system."
+msgstr ""
+"Möchten Sie diesen Live-Blog wirklich aus Ihrem Wordpress entfernen? Alle "
+"Einträge für diesen Live-Blog werden vollständig aus Ihrem Wordpress-System "
+"entfernt."
+
+#: settings.liveblogs.php:147
+msgid "Delete"
+msgstr "Löschen"
+
+#: settings.php:30 settings.php:108
+msgid "Yawave settings"
+msgstr "Yawave Einstellungen"
+
+#: settings.php:38
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: settings.php:115
+msgid "About Yawave"
+msgstr "Über Yawave"
+
+#: settings.php:120
+msgid "Authentication"
+msgstr "Authentifizierung"
+
+#: settings.php:125 settings.php:382
+msgid "Import settings"
+msgstr "Import Einstellungen"
+
+#: settings.php:130
+msgid "Development"
+msgstr "Entwicklung"
+
+#: settings.php:136
+msgid "Debug"
+msgstr "Debug"
+
+#: settings.php:146
+msgid "Debug information"
+msgstr "Debug Informationen"
+
+#: settings.php:151
+msgid "Time"
+msgstr "Zeit"
+
+#: settings.php:177
+msgid "CONTENT MARKETING FROM A SINGLE SOURCE"
+msgstr "CONTENT MARKETING AUS EINER HAND"
+
+#: settings.php:179
+msgid ""
+"Efficient cross-channel publishing with a powerful engagement toolbox and a "
+"central management cockpit."
+msgstr ""
+"Effizientes Cross-Channel-Publishing mit einer leistungsstarken Engagement-"
+"Toolbox und einem zentralen Management-Cockpit."
+
+#: settings.php:181
+msgid ""
+"A wide range of features to build a stronger relationship with your target "
+"audience.\n"
+"                     With Yawave, companies of all sizes can take their "
+"content marketing and customer experience to the next level."
+msgstr ""
+"Eine breite Palette von Funktionen, um eine stärkere Beziehung zu Ihrer "
+"Zielgruppe aufzubauen.\n"
+"                      Mit Yawave können Unternehmen jeder Größe ihr Content-"
+"Marketing und ihre Kundenerfahrung auf die nächste Stufe heben."
+
+#: settings.php:186
+msgid "How do you embed your publications on your blog?"
+msgstr "Wie betten Sie Ihre Publikationen in Ihren Blog ein?"
+
+#: settings.php:188
+msgid ""
+"You have the option of displaying your publications at any point using a "
+"shortcode"
+msgstr ""
+"Sie haben jederzeit die Möglichkeit, Ihre Publikationen per Shortcode "
+"anzuzeigen"
+
+#: settings.php:190
+msgid "Simply use the following shortcode to display all publications:"
+msgstr ""
+"Verwenden Sie einfach den folgenden Shortcode, um alle Publikationen "
+"anzuzeigen:"
+
+#: settings.php:194
+msgid ""
+"If you only want to display a certain category in one place, you have the "
+"following options:"
+msgstr ""
+"Wenn Sie nur eine bestimmte Kategorie an einer Stelle anzeigen möchten, "
+"haben Sie folgende Möglichkeiten:"
+
+#: settings.php:198
+msgid "You can do the same with tags (tag-id) or portals (portal-id)."
+msgstr ""
+"Dasselbe können Sie mit Tags (tag-id) oder Portalen (portal-id) machen."
+
+#: settings.php:200
+msgid ""
+"You also have the option of displaying your Wordpress articles together with "
+"your Yawave publications. You can use the following shortcode for this:"
+msgstr ""
+"Sie haben auch die Möglichkeit, Ihre Wordpress-Artikel zusammen mit Ihren "
+"Yawave-Publikationen anzuzeigen. Dazu können Sie folgenden Shortcode "
+"verwenden:"
+
+#: settings.php:204
+msgid "Show action buttons"
+msgstr "Acrion-Buttons anzeigen"
+
+#: settings.php:206
+msgid ""
+"So that you can display your selected action buttons in your template, you "
+"must place the following code in your template where you want to display the "
+"action buttons:"
+msgstr ""
+"Damit Sie Ihre ausgewählten Action-Buttons in Ihrer Vorlage anzeigen können, "
+"müssen Sie folgenden Code in Ihre Vorlage einfügen, wo Sie die Action-"
+"Buttons anzeigen möchten:"
+
+#: settings.php:210
+msgid ""
+"If you want to display the action buttons of a specific article or "
+"publication, you can extend the shortcode with the following parameters:"
+msgstr ""
+"Wenn Sie die Action-Buttons eines bestimmten Artikels oder einer bestimmten "
+"Publikation anzeigen möchten, können Sie den Shortcode um folgende Parameter "
+"erweitern:"
+
+#: settings.php:305
+msgid "Authorization"
+msgstr "Autorisation"
+
+#: settings.php:389
+msgid "Type of publications imported"
+msgstr "Art der importierten Publikationen"
+
+#: settings.php:397
+msgid "Author of the publications"
+msgstr "Autor der Publikationen"
+
+#: settings.php:405
+msgid "Create Yawave author as user"
+msgstr "Yawave-Autor als Benutzer erstellen"
+
+#: settings.php:413
+msgid "Import categories"
+msgstr "Kategorien importieren"
+
+#: settings.php:421
+msgid "Import tags"
+msgstr "Tags importieren"
+
+#: settings.php:529
+msgid "Enter your login information for the Yawave API here:"
+msgstr "Geben Sie hier Ihre Zugangsdaten für die Yawave-API ein:"
+
+#: settings.php:532
+msgid "Enter your credentials for the Dev-Yawave API here:"
+msgstr "Geben Sie hier Ihre Zugangsdaten für die Dev-Yawave-API ein:"
+
+#: settings.php:536
+msgid "Set here how the Yawave publications are to be imported:"
+msgstr ""
+"Legen Sie hier fest, wie die Yawave-Publikationen importiert werden sollen:"
+
+#: settings.php:545
+msgid "Where can I find the App Id and the App Secret?"
+msgstr "Wo finde ich die App-ID und das App-Secret?"
+
+#: settings.php:546
+msgid "You first need a Wordpress integration in your Yawave account at:"
+msgstr ""
+"Sie benötigen zunächst eine Wordpress-Integration in Ihrem Yawave-Konto "
+"unter:"
+
+#: settings.php:547
+msgid "Integrate -> Connections -> Add Connection"
+msgstr "Integrieren -> Verbindungen -> Verbindung hinzufügen"
+
+#: settings.php:548
+msgid ""
+"After you have successfully created it, you will find the App ID and the App "
+"Secret in the same menu item."
+msgstr ""
+"Nach erfolgreicher Erstellung finden Sie die App ID und das App Secret im "
+"selben Menüpunkt."
+
+#: settings.php:565
+msgid "Where can I find the Yawave Application ID?"
+msgstr "Wo finde ich die Yawave-Application-ID?"
+
+#: settings.php:566
+msgid ""
+"In your Yawave account you have an icon with 9 small boxes in the blue top "
+"navigation. If you click there, you will find a list of your Yawave "
+"applications. If you move the mouse over the icon with the three dots for "
+"your desired application, you have the option of copying the application ID."
+msgstr ""
+"In Ihrem Yawave-Konto haben Sie in der blauen oberen Navigation ein Symbol "
+"mit 9 kleinen Kästchen. Wenn Sie dort klicken, finden Sie eine Liste Ihrer "
+"Yawave-Anwendungen. Wenn Sie mit der Maus über das Symbol mit den drei "
+"Punkten für Ihre gewünschte Anwendung fahren, haben Sie die Möglichkeit, die "
+"Application-ID zu kopieren."
+
+#: settings.php:639
+msgid "Post"
+msgstr "Beitrag"
+
+#~ msgid "Media Type"
+#~ msgstr "Media Typ"
+
+#~ msgid "Add New"
+#~ msgstr "Hinzufügen"
